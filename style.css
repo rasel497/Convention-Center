@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*---------carouse slider ------------*/
+.carousel-item button {
+    padding: 5px 20px;
+    border-radius: 3px;
+}
+
+/*------------Our Package----------------*/
+.package bttn4 {
+    padding: 5px 20px;
+    color: red;
+}
+
+/*------------Happy Clients says---------*/
+.cards {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+.card {
+    align-items: center;
+    width: 220px;
+    height: 300px;
+    padding: 8px;
+    margin: 8px;
+    border: 2px solid gainsboro;
+    box-shadow: 5px 5px 25px 5px gray;
+}
+
+.card img {
+    width: 80px;
+    height: 80px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+/*-----------footer-----------*/
+
+footer {
+    color: #FFFFFF;
+    height: 150px;
+    background-color: rgb(8, 1, 50);
+}
+
+.text-footer {
+    padding-top: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
